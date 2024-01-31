@@ -33,12 +33,11 @@ Developer!
   <strong> Skill :four_leaf_clover: </strong>
 
   <!--프론트-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+
 
    
   <!--백-->
-   <img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=white"/>
+
   <br/>
   <!--번들러 -->
 
@@ -50,9 +49,7 @@ Developer!
   <strong> Studying :pencil2: </strong> 
  
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
- <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+ 
   <!--백-->
   <br/>
  <!--언어 및 툴 --> <br/>
