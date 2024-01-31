@@ -59,7 +59,7 @@ Developer!
 
 
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[닉네임]&show_icons=true&theme=transparent)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koohyunwoo1&show_icons=true&theme=transparent)
 
    <br/>
    <br/>
