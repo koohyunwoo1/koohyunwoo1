@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align=center>
 <!--소개-->
  
-<strong> 난 현우야! </strong> 
+<strong> HI I'm KOO </strong> 
 <br/>
 Developer!
 <br/><br/>
