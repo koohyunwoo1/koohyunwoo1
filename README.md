@@ -33,10 +33,13 @@ Developer!
   <strong> Skill :four_leaf_clover: </strong>
   
   <!--프론트--> 
-
+  Javascript, Vue
  
    
   <!--백--> 
+  Django
+
+  
   <br/>
   <!--번들러 -->
 
