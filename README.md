@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align=center>
 <!--소개-->
  
-<strong> HI I'm KOO </strong> 
+<strong> 안녕하세요 프론트개발자 준비중입니다. </strong> 
 <br/>
 Developer!
 <br/><br/>
@@ -37,7 +37,7 @@ Developer!
 
    
   <!--백-->
-
+  
   <br/>
   <!--번들러 -->
 
