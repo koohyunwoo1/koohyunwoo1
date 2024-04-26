@@ -36,9 +36,7 @@ Developer!
 
  
    
-  <!--백-->
-  <strong> Studying :pencil2: </strong> 
-   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+  <!--백--> 
   <br/>
   <!--번들러 -->
 
@@ -46,7 +44,8 @@ Developer!
 <br/><br/>
   
  <!--공부중 -->
- 
+  <strong> Studying :pencil2: </strong> 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
   <!--백-->
   <br/>
  <!--언어 및 툴 --> <br/>
