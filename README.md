@@ -31,13 +31,13 @@ Developer!
  
  <!--기술스택-->
   <strong> Skill :four_leaf_clover: </strong>
+  
+  <!--프론트--> 
 
-  <!--프론트-->
-
-
+ 
    
   <!--백-->
-  
+  <strong> Studying :pencil2: </strong> 
   <br/>
   <!--번들러 -->
 
@@ -45,8 +45,6 @@ Developer!
 <br/><br/>
   
  <!--공부중 -->
- 
-  <strong> Studying :pencil2: </strong> 
  
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
  
