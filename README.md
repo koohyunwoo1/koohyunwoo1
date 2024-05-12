@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align=center>
 <!--소개-->
  
-<strong> 프론트개발자 준비중,,, </strong> 
+<strong> 프론트개발자 준비중입니당 </strong> 
 <br/>
 Developer!
 <br/><br/>
@@ -48,6 +48,7 @@ Developer!
   <strong> Studying :pencil2: </strong> 
   <!--백-->
    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=Python&logoColor=white"/> 
   <br/>
  <!--언어 및 툴 --> <br/>
 
