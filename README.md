@@ -52,7 +52,7 @@ Developer!
  <!--언어 및 툴 --> <br/>
 
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koohuynwoo1&show_icons=true&theme=radical)
    <br/>
    <br/>
 
