@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align=center>
 <!--소개-->
  
-<strong> 프론트개발자 준비중입니당 </strong> 
+<strong> 프론트개발자 준비중 </strong> 
 <br/>
 Developer!
 <br/><br/>
