@@ -25,6 +25,8 @@ Here are some ideas to get you started:
  
 <strong> 프론트개발자 준비중 </strong> 
 <br/>
+2024.01.02 ~
+SSAFY 11th ~ing
 Developer!
 <br/><br/>
  
