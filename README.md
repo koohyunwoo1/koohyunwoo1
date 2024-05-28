@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 <br/><br/>
 
 2024.01.02 ~
-<br/><br/>
-
+<br/>
 SSAFY 11th ~ing
 <br/>
 
