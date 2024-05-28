@@ -24,13 +24,14 @@ Here are some ideas to get you started:
 <!--소개-->
  
 <strong> 프론트개발자 준비중 </strong> 
-<br/>
+<br/><br/>
+
 2024.01.02 ~
-<br/>
+<br/><br/>
+
 SSAFY 11th ~ing
 <br/>
-Developer!
-<br/><br/>
+
  
  
  <!--기술스택-->
