@@ -58,8 +58,7 @@ SSAFY 11th ~ing
    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-   [![Django](https://img.shields.io/badge/Django-3.2%2B-brightgreen)](https://www.djangoproject.com/)
-
+   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
   <br/>
  <!--언어 및 툴 --> <br/>
 
