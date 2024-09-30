@@ -4,14 +4,16 @@
 
 # 구현우
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<div style="display: flex; align-items: center;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" style="margin-left: 10px;"/>
+</div>
 
 **koohyunwoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div style="margin-left: 30px; margin-right: 30px;">
 
-<strong style="font-size: 24px"> Frontend Developer</strong>
+<strong style="font-size: 32px"> Frontend Developer</strong>
 <br/><br/>
 
 <strong>SSAFY 11th (2024.01 ~ )</strong>
