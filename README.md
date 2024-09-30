@@ -42,6 +42,7 @@
 <strong> Studying :pencil2: </strong>
 <br/>
 <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <br/>
 
 <div style="display: flex; justify-content: center; align-items: center;">
