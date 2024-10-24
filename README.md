@@ -42,9 +42,9 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
 <br/><br/>
 
-<strong>PortFolio :link:</strong>
-<br/>
-<a href="https://portfolio-ten-tawny-25.vercel.app/" target="_blank" style="text-decoration: none; color: inherit;">PortFolio</a>
+<strong>
+    <a href="https://portfolio-ten-tawny-25.vercel.app/" target="_blank" style="text-decoration: none; color: inherit;">PortFolio</a>
+</strong>
 <br/><br/>
 
 <strong>Studying :pencil2:</strong>
