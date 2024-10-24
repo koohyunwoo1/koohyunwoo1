@@ -13,17 +13,18 @@
 
 <div style="margin-left: 30px; margin-right: 30px;">
 
-<strong style="font-size: 32px"> Frontend Developer</strong>
+<strong style="font-size: 32px">Frontend Developer</strong>
 <br/><br/>
 
 <strong>SSAFY 11th (2024.01 ~ )</strong>
-<br/>
+<br/><br/>
 
 <strong>경성대학교 빅데이터응용통계학 (2018.03 ~ 2024. 02)</strong>
 
-<br/>
+<br/><br/>
 
-<strong> Skill :four_leaf_clover: </strong>
+<strong>Skill :four_leaf_clover:</strong>
+<br/><br/>
 
 <strong>Front</strong>
 <br/>
@@ -33,16 +34,21 @@
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-<br/>
+<br/><br/>
+
 <strong>Back</strong>
 <br/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
-
 <br/><br/>
 
-<strong> Studying :pencil2: </strong>
+<strong>PortFolio :link: </strong>
+<br/>
+<a href="https://portfolio-ten-tawny-25.vercel.app/" target="_blank">https://portfolio-ten-tawny-25.vercel.app/</a>
+<br/><br/>
 
+<strong>Studying :pencil2:</strong>
+<br/><br/>
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=koohyunwoo1&show_icons=true&theme=radical" style="margin-right: 10px;"/>
