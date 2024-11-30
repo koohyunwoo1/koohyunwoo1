@@ -1,7 +1,7 @@
 <div align="left">
 
 # 구현우 👋  
-**Frontend Developer | SSAFY 11th**  
+**Frontend Developer**  
 ---
 
 ### 📚 학력 및 경력
