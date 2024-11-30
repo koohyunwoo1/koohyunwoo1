@@ -1,7 +1,7 @@
 <!-- 헤더 추가 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome!&fontSize=60&fontColor=ffffff)
 
-<div align="center">
+<div align="left">
 
 # 구현우 👋  
 **Frontend Developer | SSAFY 11th**  
