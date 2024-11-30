@@ -5,10 +5,6 @@
 
 # 구현우 👋  
 **Frontend Developer | SSAFY 11th**  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-ten-tawny-25.vercel.app/)
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwlove99)](https://solved.ac/hwlove99/)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koohyunwoo1&show_icons=true&theme=radical)](https://github.com/koohyunwoo1)
-
 ---
 
 ### 📚 학력 및 경력
