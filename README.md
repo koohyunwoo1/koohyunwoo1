@@ -1,7 +1,7 @@
 <div align="left">
 
 # 구현우 👋  
-**Frontend Developer**  
+**Developer**  
 ---
 
 ### 📚 학력 및 교육
